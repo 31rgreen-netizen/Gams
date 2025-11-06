@@ -1,4 +1,5 @@
 ## Gams
+FORKED BY 31RGREEN!!! THIS STUFF MAY NOT WORK CUZ IDK HOW TO CODE (chatgpt helped lmao)
 
 [![GitHub stars](https://img.shields.io/github/stars/Gams-Offline/Gams.svg)](https://github.com/Gams-Offline/Gams/stargazers)
 
