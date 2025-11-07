@@ -1,6 +1,8 @@
 ## Gams
 Added minecraft 1.8 and if u already had gams it has ur data:D
 
+Working on adding my favorite games
+
 FORKED BY 31RGREEN!!! THIS STUFF MAY NOT WORK CUZ IDK HOW TO CODE 
 
 [![GitHub stars](https://img.shields.io/github/stars/Gams-Offline/Gams.svg)](https://github.com/Gams-Offline/Gams/stargazers)
