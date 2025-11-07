@@ -1,5 +1,5 @@
 ## Gams
-Added minecraft 1.8 and 1.12.2 if u already had gams it has ur data:D
+Added minecraft 1.8 and 1.12.2 (DOESN'T WORK OFFLINE!!!)
 
 Working on adding my favorite games
 
