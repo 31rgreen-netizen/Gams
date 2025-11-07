@@ -1,7 +1,9 @@
 ## Gams
-Added minecraft 1.8 and if u already had gams it has ur data:D
+Added minecraft 1.8 and 1.12.2 if u already had gams it has ur data:D
 
 Working on adding my favorite games
+
+I hope the owner of Gams main sees this cuz that'd be cool.
 
 FORKED BY 31RGREEN!!! THIS STUFF MAY NOT WORK CUZ IDK HOW TO CODE 
 
